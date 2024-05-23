@@ -1,0 +1,35 @@
+* {
+    font-size: 28px;
+}
+
+p {
+    color: aquamarine;
+}
+
+.menu {
+    color: brown;
+}
+
+.submenu {
+    color: blueviolet;
+}
+
+#contenido {
+    background-color: aqua;
+}
+
+a[href="https://www.google.com"] {
+    color: yellow;
+}
+
+.subelemento {
+    color: chartreuse;
+}
+
+div[class="subelemento"]{
+    color: chartreuse;
+}
+
+/*img[scr="logo.png"] {
+Para ponerle estilo a las imágenes
+}*/
